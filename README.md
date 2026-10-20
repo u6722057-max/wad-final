@@ -93,4 +93,11 @@ frontend vercel - https://vercel.com/linmyatthu/wad-final-y7xm
 
 <img width="1470" height="956" alt="Screenshot 2026-10-20 at 11 09 55 AM" src="https://github.com/user-attachments/assets/5447233e-4c65-40c7-947e-0e3504202a1b" />
 
+## student side
+
+<img width="1470" height="956" alt="Screenshot 2026-10-20 at 11 09 36 AM" src="https://github.com/user-attachments/assets/aada4a1e-c83e-4678-844c-b7764ef598a8" />
+
+<img width="1470" height="956" alt="Screenshot 2026-10-20 at 11 10 27 AM" src="https://github.com/user-attachments/assets/932e45ef-9b93-40aa-92dd-a0eb70721fdf" />
+
+
 
