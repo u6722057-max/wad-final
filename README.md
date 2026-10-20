@@ -55,6 +55,14 @@ Course management portal with a Next.js API, React/Vite frontend, and MongoDB. T
 5. As the course owner, change status to Close and verify the course remains visible but cannot be enrolled in. Change to Cancel and verify it disappears from student listings. A course with students cannot be deleted.
 6. Try the same protected API calls while signed out; they should return `401` or `403`.
 
+
+## Vercel Deployment Link
+backend - https://wad-final-seven.vercel.app
+backend vercel  - https://vercel.com/linmyatthu/wad-final
+
+frontend - https://wad-final-y7xm.vercel.app
+frontend vercel - https://vercel.com/linmyatthu/wad-final-y7xm
+
 ## Students
    Username - 
    password -
