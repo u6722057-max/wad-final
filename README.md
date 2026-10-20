@@ -85,5 +85,12 @@ frontend vercel - https://vercel.com/linmyatthu/wad-final-y7xm
 
 <img width="740" height="316" alt="Screenshot 2026-10-20 at 10 52 15 AM" src="https://github.com/user-attachments/assets/6460b497-f21b-46ab-8167-cc5ee5f67cc8" />
 
+## teacher side
+
+<img width="1470" height="956" alt="Screenshot 2026-10-20 at 11 10 04 AM" src="https://github.com/user-attachments/assets/d616f207-1122-4578-b09f-e7b19e9b25bd" />
+
+<img width="1470" height="956" alt="Screenshot 2026-10-20 at 11 09 58 AM" src="https://github.com/user-attachments/assets/04de5a9b-3303-403b-a416-e5443d88a285" />
+
+<img width="1470" height="956" alt="Screenshot 2026-10-20 at 11 09 55 AM" src="https://github.com/user-attachments/assets/5447233e-4c65-40c7-947e-0e3504202a1b" />
 
 
