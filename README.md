@@ -59,5 +59,15 @@ Course management portal with a Next.js API, React/Vite frontend, and MongoDB. T
    Username - 
    password
 
+## Teachers
+   Username - 
+   password -
+   
 <img width="703" height="683" alt="Screenshot 2026-10-20 at 10 50 21 AM" src="https://github.com/user-attachments/assets/4dc646be-c3ed-4a28-8aa9-e094b5b1bf1b" />
+
+<img width="719" height="601" alt="Screenshot 2026-10-20 at 10 50 27 AM" src="https://github.com/user-attachments/assets/82328d54-c029-4e17-9795-f29eb1113a5e" />
+
+<img width="740" height="316" alt="Screenshot 2026-10-20 at 10 52 15 AM" src="https://github.com/user-attachments/assets/6460b497-f21b-46ab-8167-cc5ee5f67cc8" />
+
+
 
