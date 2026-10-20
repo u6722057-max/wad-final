@@ -55,9 +55,17 @@ Course management portal with a Next.js API, React/Vite frontend, and MongoDB. T
 5. As the course owner, change status to Close and verify the course remains visible but cannot be enrolled in. Change to Cancel and verify it disappears from student listings. A course with students cannot be deleted.
 6. Try the same protected API calls while signed out; they should return `401` or `403`.
 
-   ## Students
+## Students
    Username - 
-   password
+   password -
+
+<img width="711" height="578" alt="Screenshot 2026-10-20 at 10 50 43 AM" src="https://github.com/user-attachments/assets/92af646f-1c77-4ea7-883b-fe9f2f754451" />
+
+<img width="733" height="300" alt="Screenshot 2026-10-20 at 10 50 36 AM" src="https://github.com/user-attachments/assets/8acd0b82-9be3-40bb-8d46-bb9f0ba1f074" />
+
+
+
+   
 
 ## Teachers
    Username - 
